@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "253069742539",
+    "firebase_url": "https://fire-auth-email-pass-4a4ee-default-rtdb.firebaseio.com",
+    "project_id": "fire-auth-email-pass-4a4ee",
+    "storage_bucket": "fire-auth-email-pass-4a4ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253069742539:android:d421a6a8df59b0a803e64e",
+        "android_client_info": {
+          "package_name": "com.jamillabltd.firebaseauthemailpass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "253069742539-3tk54ok14sbip68c2d0865skkcpn1nse.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMMOU9T2JfPov78hwVRreqH4D0-QFbDPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "253069742539-3tk54ok14sbip68c2d0865skkcpn1nse.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

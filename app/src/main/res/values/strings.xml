@@ -1,0 +1,35 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Firebase Auth Email Pass</string>
+
+
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="create_new_account">Create a new account?</string>
+    <string name="or">OR</string>
+    <string name="register">Register</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="new_password">New Password</string>
+    <string name="remember_me">Remember me</string>
+
+    <string name="enter_email">Enter your email…</string>
+    <string name="enter_valid_email">Enter a valid email…</string>
+    <string name="enter_pass">Enter Password…</string>
+    <string name="enter_reg_email">Please enter your registered email to receive password reset link.</string>
+    <string name="reset_password">Reset Password</string>
+
+    <string name="recover_pass">Recover Password</string>
+    <string name="new_pass">Create a new password</string>
+    <string name="not_matching_pass">Password not matching</string>
+    <string name="weak__pass">Password too weak. Password should be at least 6 digit</string>
+    <string name="check_email">Check your email. Password reset link has been successfully sent to your email.</string>
+    <string name="full_name">Enter your full name</string>
+    <string name="register_successfully">Registered Successfully.</string>
+    <string name="weak_pass_alert">Your password is too week. kindly use a mix of alphabets, number and text</string>
+    <string name="invalid_or_used">Your email is invalid. or already is use, kindly re-enter</string>
+    <string name="already_used_this_email">User is already registered with this email. Use another email</string>
+    <string name="loading" tools:ignore="TypographyEllipsis">Loading...</string>
+    <string name="no_internet_connection">No Internet Connection</string>
+</resources>
